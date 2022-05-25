@@ -33,7 +33,7 @@ body{
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  letter-spacing: 5px;
+  letter-spacing: 4px;
 }
 hr{
   margin-bottom: 20px;
@@ -52,6 +52,7 @@ hr{
 .btn{
   background: none;
   border: none;
+  font-size: 20px;
 }
 .btn span{
   color: grey;
